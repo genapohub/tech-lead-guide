@@ -32,13 +32,6 @@
 git clone https://github.com/genapohub/tech-lead-guide.git ~/.workbuddy/skills/tech-lead-guide
 ```
 
-**方式二：ZIP导入**
-```bash
-git clone https://github.com/genapohub/tech-lead-guide.git
-zip -r tech-lead-guide.zip tech-lead-guide/
-```
-然后在 WorkBuddy 桌面端 → **技能市场** → **添加技能/上传技能** → **点击"跳过检测，直接安装"**。
-
 ### Trae
 
 **ZIP 导入**
